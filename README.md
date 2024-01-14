@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-Fredriksson
+- 👋 Hi, I’m @Michael-Fredriksson from Sweden
 - 👀 I’m interested in web development and dog training
 - 🌱 I’m self-taught in HTML, CSS, JS, and PHP, but am now taking a Fullstack course in HTML5, CSS3, JS, PHP and Python to be able to get a certificate of knowledge as proof of my knowledge
 <!--- - 📫 How to reach me ... --->
